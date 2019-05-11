@@ -9,3 +9,6 @@
 Once your Amazon SageMaker NoteBook Instance is ready, please click **Open Jupyter**.
 
 ## Lab 1: 
+
+1. Once you're in the Jupyter Console, click on **Lab1** and then **AWS CLI & AMI Lab.ipynb**.
+2. Follow the instructions in the notebook.
