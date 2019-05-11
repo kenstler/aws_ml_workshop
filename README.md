@@ -23,9 +23,8 @@ In this lab, we will go over up to 4 SageMaker examples, covering:
 * Distributed training simplified with "Bring-your-own-script", Keras, and Horovod
 * Reinforcement learning for Mountain Car with Intel Coach
 
-To access these examples, please go to your Jupyter Notebook Console and:
-* Select **SageMaker Examples**
-Go through the following examples:
+To access these examples, please go to your Jupyter Notebook Console and Select **SageMaker Examples** at the top.
+We will go through the following examples:
 1. **object_detection_recordio_format.ipynb** under **Introduction to Amazon Algorithms**
 2. **pytorch_rnn.ipynb** under **Sagemaker Python Sdk**
 3. **tensorflow_script_mode_horovod.ipynb** under **Sagemaker Python Sdk**
